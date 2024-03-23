@@ -1,0 +1,14 @@
+C:\Users\Matheus\source\repos\lobbysepa\pilobby\lobby\lobby\bin\Debug\lobby.exe.config
+C:\Users\Matheus\source\repos\lobbysepa\pilobby\lobby\lobby\bin\Debug\lobby.exe
+C:\Users\Matheus\source\repos\lobbysepa\pilobby\lobby\lobby\bin\Debug\lobby.pdb
+C:\Users\Matheus\source\repos\lobbysepa\pilobby\lobby\lobby\bin\Debug\MagicTrickServer.dll
+C:\Users\Matheus\source\repos\lobbysepa\pilobby\lobby\lobby\bin\Debug\MagicTrickServer.xml
+C:\Users\Matheus\source\repos\lobbysepa\pilobby\lobby\lobby\obj\Debug\Sistema Autonomo.csproj.AssemblyReference.cache
+C:\Users\Matheus\source\repos\lobbysepa\pilobby\lobby\lobby\obj\Debug\lobby.Lobby.resources
+C:\Users\Matheus\source\repos\lobbysepa\pilobby\lobby\lobby\obj\Debug\lobby.Properties.Resources.resources
+C:\Users\Matheus\source\repos\lobbysepa\pilobby\lobby\lobby\obj\Debug\Sistema Autonomo.csproj.GenerateResource.cache
+C:\Users\Matheus\source\repos\lobbysepa\pilobby\lobby\lobby\obj\Debug\Sistema Autonomo.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\source\repos\lobbysepa\pilobby\lobby\lobby\obj\Debug\Sistema .14FF1509.Up2Date
+C:\Users\Matheus\source\repos\lobbysepa\pilobby\lobby\lobby\obj\Debug\lobby.exe
+C:\Users\Matheus\source\repos\lobbysepa\pilobby\lobby\lobby\obj\Debug\lobby.pdb
+C:\Users\Matheus\source\repos\lobbysepa\pilobby\lobby\lobby\obj\Debug\lobby.Game.resources
